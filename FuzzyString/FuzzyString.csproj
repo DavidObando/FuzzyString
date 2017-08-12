@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApproximatelyEquals.cs" />
-    <Compile Include="FuzzyStringComparisonOptions.cs" />
-    <Compile Include="FuzzyStringComparisonTolerance.cs" />
+    <Compile Include="ComparisonOptions.cs" />
+    <Compile Include="ComparisonTolerance.cs" />
     <Compile Include="HammingDistance.cs" />
     <Compile Include="JaccardDistance.cs" />
     <Compile Include="JaroDistance.cs" />
