@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FuzzyString
 {
-    public enum FuzzyStringComparisonOptions
+    public enum ComparisonOptions
     {
         UseHammingDistance,
 
